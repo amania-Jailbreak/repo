@@ -1,8 +1,8 @@
-Codename: akusio
+Codename: deb collection Repo
 Components: main
-Description: Mirror of akusio's Repository. Supports Cydia and Zebra. (MIRROR)
-Label: akusio (MIRROR)
-Origin: akusio (MIRROR)
+Description: deb collection Repo
+Label: deb collection Repo
+Origin: deb collection Repo
 Suite: stable
 Architectures: iphoneos-arm
 Version: 1.0
