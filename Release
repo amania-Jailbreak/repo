@@ -1,0 +1,8 @@
+Codename: akusio
+Components: main
+Description: Mirror of akusio's Repository. Supports Cydia and Zebra. (MIRROR)
+Label: akusio (MIRROR)
+Origin: akusio (MIRROR)
+Suite: stable
+Architectures: iphoneos-arm
+Version: 1.0
