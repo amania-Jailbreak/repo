@@ -1,0 +1,346 @@
+Package: com.spark.snowboard
+Architecture: iphoneos-arm
+Version: 1.4.20~Beta4
+Section: Tweaks
+Maintainer: Spark
+Installed-Size: 5008
+Provides: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Depends: mobilesubstrate, preferenceloader
+Conflicts: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Replaces: anemoneteam.anemone, com.anemonetheming.anemone, winterboard
+Filename: ./debs/1.4.20_Beta4.deb
+Size: 1591782
+MD5sum: 1fb582d7e8e2f3093cc0e02b66bb7b07
+SHA1: 65053af13e2cea17ac8342eeb36b47d9faecc2fc
+SHA256: a98bde4179af69362b3d969941c010a26ca05548d0b89e73e7e852a2875b64f1
+SHA512: f19b5a2db4931ef7415126b3d213f31a7c6bec1c9e025115688d9af31feeaa21a6460cf645f62673cd774be17bcecf6ef5a1cc7705bac2178aaa385c92c3028f
+Description: Snowboard theming engine
+Name: SnowBoard
+Author: Spark & Dennis D. Bednarz
+
+Package: com.lacertosusrepo.tweakcount
+Architecture: iphoneos-arm
+Version: 1.0.1
+Section: Tweaks
+Maintainer: LacertosusDeus <LacertosusThemes@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/60de5976b32c4a00133ee83c.deb
+Size: 7498
+MD5sum: a7f1dc896e2de6b11effdc6a1e224129
+SHA1: ce245790a14e95dfa35303b7597fe4e90b480af5
+SHA256: 356fe65c34df095955c231688f2bcc1f3ce35dd3bce4f8f487e4ba4c79b61a9a
+SHA512: f712ff4fa1935dc5f6731bbdf81f543516075c322814904cd544dd98efd3b1ef26ddacd909f5639ae5cf7e82723114191b89fd870dce5f642b9cc64653199ab8
+Description: See how many tweaks you have install in your preferences...
+Name: TweakCount
+Author: LacertosusDeus <LacertosusThemes@gmail.com>
+Depiction: https://lacertosusrepo.github.io/depictions/com.lacertosusrepo.beta/
+
+Package: com.opa334.cranelite
+Architecture: iphoneos-arm
+Version: 1.1.4-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 1644
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Conflicts: com.opa334.crane, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/613fa624908256001a382b32.deb
+Size: 237066
+MD5sum: 075da01d678f6301dd2d7b7a051595e2
+SHA1: aaf7da0542dd495de24a06af0c4062a933b52786
+SHA256: e9886b6981455fd64478a0c9d2f9a0794370822e0f13a5115e4c9feef0e7ad25
+SHA512: 3b78c3c5c21b00a9db681bd7d9f6a61169501fc4648c8fd863c14140cae882d75a2a3b32407f6d0775bf9de89c274db604ef9453922e47925e9fe7b2bdbe9af8
+Description: Multiple containers for one application!
+Name: Crane Lite
+Author: opa334
+
+Package: moe.absolucy.lucient.trial
+Architecture: iphoneos-arm
+Version: 1.2.5
+Section: Tweaks
+Maintainer: Lucy <support@absolucy.moe>
+Installed-Size: 7916
+Provides: moe.absolucy.lucient
+Depends: firmware (>= 14.0), mobilesubstrate | com.ex.substitute | org.coolstar.libhooker, preferenceloader
+Conflicts: moe.absolucy.lucient
+Filename: ./debs/6141fabc908256001a383771.deb
+Size: 2593054
+MD5sum: 17fcb95f965fe224acfcf1eeb28701b5
+SHA1: 0a5b71ddeab2214f75aaf013dc5dafc21ea37bfd
+SHA256: 3addb1fcc6a3165fb0d86598af27c097ca22fae954dfe17166b4a88eb9b476fd
+SHA512: 54c1044a15489e9165cd076d98b238353a4643331de299163ba025a19d5cf73503376b39a70c110dd97890572c72fbe628a063f5e5b2bea4dfc0052f6c72837d
+Description: A lovely Android 12-inspired lock screen overhaul (free trial version)
+Name: Lucient (Trial)
+Author: Lucy <support@absolucy.moe>
+
+Package: jp.soh.reprovision
+Architecture: iphoneos-arm
+Version: 0.8.1~release
+Priority: optional
+Section: Utilities
+Maintainer: Soh Satoh
+Provides: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Depends: firmware (>= 9.0)
+Replaces: com.matchstic.Extender-Installer, com.matchstic.reprovision
+Filename: ./debs/615d7a78353a15001a17f313.deb
+Size: 15529964
+MD5sum: ae1cb60f68632629452a966b230e254e
+SHA1: 6fdede5b35cfbd0f26a1de09bca7e34c25c5f7db
+SHA256: 65b3edb36b7ecd405090c969c90ec0df700fdd74fbceb2e1989be110ab4d7774
+SHA512: bb1e4ff9d828b00f054c478cd78059c92080923c5ed7719e6de85fa1c3a941e92e69e4f35bda39b5142218bf81ffd277c69e81f2b0b84ca2beedc26255b80e90
+Description: Re-sign applications on your device
+Name: ReProvision Reborn
+Author: Soh Satoh, Matt Clarke
+dev: Matt Clarke
+Icon: file:///Applications/ReProvision.app/AppIcon60x60@2x.png
+
+Package: com.cydiageek.carrierizer2
+Architecture: iphoneos-arm
+Version: 1.1.4
+Priority: optional
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 361
+Depends: mobilesubstrate, firmware (>= 12.0), preferenceloader, com.peterdev.libpddokdo
+Filename: ./debs/carrierizer2_1.1.4.deb
+Size: 56588
+MD5sum: aebc70f79f36f7106496f4f5b88325bc
+SHA1: 8729cee2bec15435fa989697fd594d08c51dc0e5
+SHA256: 5fc350a23162a647f22d2518959cec444159d6399b08d299c344d4d64718a5dd
+SHA512: 39b8874630d86560f172635c10a1544777d98e0b976d1c52bb24453f1b31d2369529e884d46953e0c7c1ef2229ed6b8e1adc3b211b4e2638d84be40603486149
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carrierizer2Dp
+Description: Custom Text/Options for your Carrier!
+Tag: purpose::extension
+Name: Carrierizer2
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=carrierizer2Dp
+Sponsor: thebigboss.org <http://thebigboss.org>
+Author: CydiaGeek <lucaluca86@aol.com>
+dev: lucaluca86
+Icon: file:///Library/PreferenceBundles/Carrierizer2.bundle/Carrierizer2@2x.png
+
+Package: com.blackhole.gesto13
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Gabriele Filipponi
+Depends: mobilesubstrate, firmware (>= 13.0), preferenceloader
+Filename: ./debs/com.blackhole.gesto13.deb
+Size: 1470028
+MD5sum: 9365b97bcd61b1f8a9edf7bfa481836b
+SHA1: 40c76d2ca01fa4ee284b0fbc12a9df1c71509170
+SHA256: f9e066948251d20e1c0134ff4c5afd3ccd33f1e5c4f36f474970f67d91f83133
+SHA512: 5fa548b03d0769175237e62b80198ddef86f223783fa4e90401cc0de998afcef76e61fff8e5e81fadf16f0e2e8d8e0890e9bfdfa2db59096a77e2a66a8b07cf5
+Homepage: https://aesign.me/gesto
+Description: Gesto enhances iOS's multitasking view, making it powerful yet familiar, with a native-looking design and gorgeous animations.
+Name: Gesto13
+Author: Gabriele Filipponi & Alessandro Chiarlitti
+
+Package: com.ryannair05.cylinder
+Architecture: iphoneos-arm
+Version: 1.0.4
+Section: Tweaks
+Maintainer: Ryan Nair <ryannairtweaks@gmail.com>
+Installed-Size: 1388
+Depends: firmware (>= 11.0), mobilesubstrate (>= 0.9.6011), preferenceloader
+Filename: ./debs/com.ryannair05.cylinder_1.0.4_iphoneos-arm.deb
+Size: 229376
+MD5sum: 17f3a2b13caa50fa097a422233620d02
+SHA1: f5c845409ef197ca0e325fb9033bd4914cd4f6b4
+SHA256: f658e46af120fafa21f8b13d33b61ee064371c9c29110717169facd9c9feba0c
+SHA512: 5ab8448bf02764fdd793f4b93900701a7a2b9905e3b6f492881e07dd48a2bdac3b3116387654654db227adc7ba71272913857fcf0e6e9d56dfeec1f3c8ec5a58
+Description: Make your icons dance
+Tag: compatible_min::ios11.0
+Name: Cylinder Reborn
+Author: Ryan Nair <ryannairtweaks@gmail.com>
+Icon: https://chariz.com/cdn/icon/cylinder-reborn/icon@3x.png
+Depiction: https://chariz.com/buy/cylinder-reborn
+
+Package: com.r333d.cylinder
+Architecture: iphoneos-arm
+Version: 1.1
+Section: Tweaks
+Maintainer: BigBoss <bigboss@thebigboss.org>
+Installed-Size: 1419
+Depends: firmware (>= 3.0), mobilesubstrate (>= 0.9.5000), preferenceloader
+Filename: ./debs/cylinder_1.1.deb
+Size: 300358
+MD5sum: c24e9c9b3f4096a8b93080207fac5580
+SHA1: dd35f74c38b9ac3652a134136e4ffcb15db67329
+SHA256: 5ddac771540c6f8f8e1ada87fa0deae2f85e1aac2536d125aaa0787667528cd4
+SHA512: afd0e0317410cdc8725aab5ca5598c49151eba20e12defe9709394da37942943877c0564c5b4e36190264394ef98a31212d4967047ed10b61f5ccb787b8aba6d
+Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Description: Make your icons dance
+Tag: purpose::extension, compatible::ios7, compatible::ios8, compatible::ios9, compatible::ios10, compatible::ios11, compatible::ios12, compatible::ios13
+Author: Reed Weichler <rweichler+cydia@gmail.com>
+Name: Cylinder
+Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=cylinderDp
+Sponsor: thebigboss.org <http://thebigboss.org>
+dev: rweichler
+Icon: file:///Library/PreferenceBundles/CylinderSettings.bundle/Icon@2x.png
+
+Package: jp.akusio.backgrounderaction11
+Architecture: iphoneos-arm
+Version: 0.0.8
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 72
+Depends: mobilesubstrate, libactivator (>=1.9.13~beta2), Firmware(>=11.0)
+Filename: ./debs/jp.akusio.backgrounderaction11_0.0.8_iphoneos-arm.deb
+Size: 11254
+MD5sum: 4e5f9a3bf7181ab56b9f92c62d052a2b
+SHA1: db4126586d28fec526217d49f2f1ca06920705f2
+SHA256: ea95a4ff7b088375985dae7df02a79e6c006d911acd819c67eb60097b7da6a32
+SHA512: 69686d7801508f4ee523cbf813a0c68bbe0c9ea48fc145fa17704f5a92ccef15ec585b6861efa0ad2edc96287b6fe7c6df19b3a18b75fa64a7d2b71f214f21f0
+Description: *Currnetly in Beta* Add "Toggle Background Mode" action to Activator.
+Name: Backgrounder Action
+Depiction: https://akusio.github.io/descriptions/backgrounderaction/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: jp.akusio.backgrounderaction12
+Architecture: iphoneos-arm
+Version: 0.1.0
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 276
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction12_0.1.0_iphoneos-arm.deb
+Size: 21308
+MD5sum: 15173fd99097de7fbd73181cce6369ee
+SHA1: 1d619f4d3bf01e02a709bb53e9bde0b2de0c8788
+SHA256: 27b29176ad2aaf9cc46bc5c21ac2743da9042565ad620523a85570a34d397259
+SHA512: d8718ae4f5e698d05a1a639b9d34d0649fc04f0d2860d3b4341b63daa6419c771195f23fb18a61cbe8e3a87960a46280091a1253d0af7371ca77e81a431fe280
+Description: Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction for CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction12/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: jp.akusio.backgrounderaction13
+Architecture: iphoneos-arm
+Version: 0.1.4
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 244
+Depends: mobilesubstrate, com.opa334.ccsupport
+Filename: ./debs/jp.akusio.backgrounderaction13_0.1.4_iphoneos-arm.deb
+Size: 14078
+MD5sum: c310760bda4ccc7e5ed3722aed9ef7de
+SHA1: b8619c32ee626b06376975eb84beecfd65cdae84
+SHA256: ad5dc505166d41fd2d60bd1ff9223e46ff1ba48999a57483cc78d8c946dec9c0
+SHA512: 7de4b826a9e436adb2d2252acd9283bbb9c3301e3fb02d7069e67c23c267e3f66b003aa0b7ac3450f25dea5c488a6007a21e45e30792c6b8f26b72715064f38e
+Description: [iOS13]Add "Toggle Background Mode" action to ControlCenter.
+Name: BackgrounderAction2 for CCSupport
+Depiction: https://akusio.github.io/descriptions/backgrounderaction13/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: jp.akusio.kernbypass
+Architecture: iphoneos-arm
+Version: 0.0.2
+Section: System
+Maintainer: akusio
+Installed-Size: 380
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./debs/jp.akusio.kernbypass_0.0.2_iphoneos-arm.deb
+Size: 12098
+MD5sum: bf11d32c8efe3576fb1716ad28227f0b
+SHA1: d54a0131ea51d21447be7950ef6cb495f751dc1a
+SHA256: 612ca12f0818ed7763806d87f0e4f977d5b208b2dd67b0997745bc0e39a434b2
+SHA512: ef923d0ef5b654620c63c5da89c7cc590f573edf0685c9e2a1809ae3b6459cd0e65088a2f9ab9f12fe5b7969ca722388aaf34de6a8689c5783a800dc12084dba
+Description: kernel level jailbreak detection bypass.
+Name: KernBypass
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Author: akusio
+
+Package: jp.akusio.kernbypass
+Architecture: iphoneos-arm
+Version: 0.0.3
+Section: System
+Maintainer: akusio
+Installed-Size: 544
+Depends: mobilesubstrate, applist, preferenceloader, firmware(>=12.0)
+Filename: ./debs/jp.akusio.kernbypass_0.0.3_iphoneos-arm.deb
+Size: 15114
+MD5sum: d8f11bd2b2e85b0034318b48b21f7d79
+SHA1: 1f0b964c4ed4ff15ceb3d12e974528695090c993
+SHA256: 2148d1b3f39a77ea65adbebc4aaa970241a165aae8cf3187232c3f028d9a25f0
+SHA512: fc03ab4b20d5fb91db7acff35d8b3b2c5a4305abe9a0b1d62534a47727fac776590eafc0a9944cbdfa08f89b9180296e0bddee068b6a57340f5836500fe9dabf
+Description: kernel level jailbreak detection bypass.
+Name: KernBypass
+Depiction: http://akusio.github.io/descriptions/kernbypass/index.html
+Author: akusio
+
+Package: jp.akusio.milkyway2
+Architecture: iphoneos-arm
+Version: 0.2.0-alpha
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 376
+Depends: mobilesubstrate, jp.akusio.backgrounderaction13, applist, preferenceloader
+Filename: ./debs/jp.akusio.milkyway2_0.2.0-alpha_iphoneos-arm.deb
+Size: 44822
+MD5sum: 45aff19ea7b0327a72e50c4a87d68cd8
+SHA1: a779498db20097cef4783e6d817796d640bd6372
+SHA256: 9c1aa016b720ecfaa6f3176cd88454ec8767f1832306b69cda85e3ed734165e3
+SHA512: b1d45f48ba91227fe22d8f7d0489b9e59f0c27b3b8e55356c009da0574504d51340b80e275d2c834574671781135841a57fcdfd1c84a5245cda05d4ccc495c46
+Description: multitasking for iOS13.
+Name: MilkyWay2
+Depiction: http://akusio.github.io/descriptions/milkyway2/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: jp.akusio.milkyway
+Architecture: iphoneos-arm
+Version: 0.1.4beta
+Section: Tweaks
+Maintainer: akusio <akusio-report@neko2.net>
+Installed-Size: 208
+Depends: mobilesubstrate, jp.akusio.backgrounderaction11 | jp.akusio.backgrounderaction12
+Filename: ./debs/jp.akusio.milkyway_0.1.4beta_iphoneos-arm.deb
+Size: 53902
+MD5sum: 1fcba84ee0626f8992d999372ee6ec44
+SHA1: 51e5a0baad5af327de61d34980451fdda99ef4b9
+SHA256: 6a4f6d390f4dd470417f306df14ec299b009e98a5adb7495b193396843307b22
+SHA512: 49b004c1a12776759ccd1fa3f8e8655aa840217c23316bdd9f77fa090923c470e07bd9dddd3408b20f5404638c6d8cc75bcd672430d3752a7892a0c139dfd59c
+Description: multitasking for iOS.
+Name: MilkyWay
+Depiction: http://akusio.github.io/descriptions/milkyway/index.html
+Author: akusio <akusio-report@neko2.net>
+
+Package: net.angelxwind.appsyncunified
+Architecture: iphoneos-arm
+Version: 102.0
+Section: Tweaks
+Maintainer: Karen/あけみ <karen@akemi.ai>
+Installed-Size: 732
+Provides: appsync
+Depends: firmware (>= 5.0), mobilesubstrate (>= 0.9.5100), firmware (<= 14.8)
+Conflicts: us.hackulo.appsync50, us.hackulo.appsync50plus, com.hackyouriphone.appsync7, com.teiron.ppsync, appsync50plus2.25pp, com.linusyang.appsync, com.sull.appsyncunified, com.sull.appsyncunifiedbeta, com.xsellize.appsync50, com.xsellize.appsync50plus, appsync50plus.178, appsync50plus2.178, cydia.net.angelxwind.appsyncunified, com.ifucker.appsync, com.sexyphonetech.appsyncunified, appsyncunifiedofficial, org.digbick.asufixed, cn.mingmei.asu623517234615234813, science.xnu.substitute
+Replaces: us.hackulo.appsync50
+Filename: ./debs/nodelete-net.angelxwind.appsyncunified.deb
+Size: 58304
+MD5sum: bfc0ae0a9d103360e8d798d5a04b9620
+SHA1: f95286f3c6dab9f39307ebdc296fcbb273b227fe
+SHA256: 5ef22d365bd66e51815f20a739f1acfc5fe1ad84b5b2a5a6dd0f2279f2ca9d56
+SHA512: 7a550e3b67ca0230feb215e60d049cc37097fd44b7f7171884a882b5c43a4ea10913759515e5486315a3f0401ed0ee0baead94576d2fef8e5962d356982e5761
+Homepage: https://cydia.akemi.ai/
+Description: Enables the ability to install unsigned/fakesigned iOS applications.
+Depiction: https://cydia.akemi.ai/?page/net.angelxwind.appsyncunified
+Name: AppSync Unified
+Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
+
+Package: org.coolstar.sileo
+Architecture: iphoneos-arm
+Version: 2.2.6
+Section: Packaging
+Maintainer: Hayden Seay <me@diatr.us>
+Depends: firmware (>= 12.0), firmware (>= 12.2) | org.swift.libswift (>= 5.0), coreutils (>= 8.31-1), dpkg (>= 1.19.7-2), apt (>= 1.8.2), libzstd1
+Filename: ./debs/org.coolstar.sileo_2.2.6_iphoneos-arm.deb
+Size: 2006476
+MD5sum: 9c6d562f5d3c097ce5450fad85cf9574
+SHA1: de402f69af4bbd255c4ee4a87a1d16188cfbe193
+SHA256: 21facaf703f83b930391040edbe327f3c0d8730b31c3962d974aefee421c8e0d
+SHA512: df5f602f772fcccf0789de0adafcd90142337e3a3e6d0c5802a485ebda1cd231e984232c9d18c88176ef712eb385095a790e038bd62052e484594ccf79b7a61a
+Description: A modern APT package manager frontend
+Name: Sileo
+Author: Sileo Team <getsileoapp@gmail.com>
+Icon: https://getsileo.app/img/icon.png
+SileoDepiction: https://featuredpage.getsileo.app/depiction.json
+
