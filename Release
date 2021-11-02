@@ -1,0 +1,8 @@
+Codename: deb collection Repo
+Components: main
+Description: deb collection Repo
+Label: deb collection Repo
+Origin: deb collection Repo
+Suite: stable
+Architectures: iphoneos-arm
+Version: 1.0
