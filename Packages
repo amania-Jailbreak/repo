@@ -2248,6 +2248,23 @@ Author: Sileo Team <getsileoapp@gmail.com>
 Icon: https://getsileo.app/img/icon.png
 SileoDepiction: https://featuredpage.getsileo.app/depiction.json
 
+Package: com.amania.eti
+Architecture: iphoneos-arm
+Version: 4-Beta
+Section: Tweaks
+Maintainer: amania
+Installed-Size: 5008
+Depends: ffmpeg,python3,youtube-dl
+Filename: ./debs/com.amania.eti_4-Beta_iphoneos-arm.deb
+Size: 2608
+MD5sum: b9a686651dc2fbf49ffa1e6559bea6a2
+SHA1: afed5024bdde896b782f1898b4b52fa4b1d30a10
+SHA256: 9c1ac9cfac813dea85423e0640c960f2c0020b1b473ccbed18506f88e7818b62
+SHA512: 29f7f1a7887412baa2d0b7860875becb0c57cdb9e1ccd934d4dc8f73bc465c27da0eb39cf2d8f54138f5ba767a99cb00a8d5514d2198211722fa0304583c2b50
+Description: Video,Music Downloader
+Name: Electube IOS
+Author: amania
+
 Package: youtube-dl
 Architecture: all
 Version: 2021.06.06
