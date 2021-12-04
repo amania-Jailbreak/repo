@@ -1,8 +1,8 @@
-Codename: deb collection Repo
+Codename: Amania's repository
 Components: main
-Description: deb collection Repo
-Label: deb collection Repo
-Origin: deb collection Repo
+Description: Amania's repository
+Label: Amania's repository
+Origin: Amania's repository
 Suite: stable
 Architectures: iphoneos-arm
 Version: 1.0
