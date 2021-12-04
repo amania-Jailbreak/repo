@@ -1,3 +1,490 @@
+Package: 0xcc.woodfairy.koi
+Architecture: iphoneos-arm
+Version: 1.1.7
+Section: Tweaks
+Maintainer: woodfairy & Litten
+Installed-Size: 1456
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.1.1)
+Filename: ./debs/0xcc.woodfairy.koi.deb
+Size: 1075050
+MD5sum: a9b46b42dbf575bb6e53e047aae94e51
+SHA1: afcb48648ce36d74cd8a2f974a719973444dc7ab
+SHA256: 6cad75a5fe9cb891999b204ce834d8301e636a3c4ee0e9020a75dae424387b3e
+SHA512: b8d0cff540ba13c38e4c21fd10c8f332798f948aca568f714553eb917054b6684ab4d623a8b351507546c11982b986f0d2bd9bd18930b92a8924509a849e5744
+Description: Colorize the force touch menu background based on the app icon color
+Name: Koi 🐠
+Author: woodfairy & Litten
+Depiction: https://repo.litten.love/depictions/Koi/index.html
+SileoDepiction: https://repo.litten.love/depictions/Koi/index.json
+Icon: https://repo.litten.love/depictions/Koi/assets/icon.png
+
+Package: ai.paisseon.cydown
+Architecture: iphoneos-arm
+Version: 7.1.4
+Maintainer: Julioverne & CyPwn
+Depends: coreutils-bin, coreutils, mobilesubstrate, preferenceloader
+Conflicts: com.julioverne.cydown, org.mr.cydown, ru.rj.cydown
+Filename: ./debs/ai.paisseon.cydown_7.1.4_iphoneos-arm.deb
+Size: 2602796
+MD5sum: 10fc74051cc47adc8d27e7ff17d8524c
+SHA1: df3c7a34084b140a7afa69ce75bcd727033a0a0b
+SHA256: b81c9f40d96e4639cbdcd3e42c8169fe88d83d7788d66771efc1a46931c81448
+SHA512: f137121b6353ff54cdfc2e8c30f8a34667f339303a3ca4dba7ef62ea849073fa2a0bbab788c8fc42765a134040a1175dce1200fda7fca61c9728474d894d5d47
+Description: Download tweaks for free
+Name: CyDown++
+Author: Julioverne & CyPwn
+SileoDepiction: https://paisseon.github.io/info/cydown.json
+Depiction: https://paisseon.github.io/info/cydown.html
+Icon: https://paisseon.github.io/info/cydown.png
+
+Package: ai.paisseon.satella
+Architecture: iphoneos-arm
+Version: 2.5.1
+Maintainer: Paisseon
+Installed-Size: 372
+Depends: firmware (>= 13.0), mobilesubstrate, preferenceloader, com.opa334.altlist
+Filename: ./debs/ai.paisseon.satella_2.5.1_iphoneos-arm.deb
+Size: 47408
+MD5sum: a7fb76ef459f77dfdcafe9d5106f23bd
+SHA1: 4190df43362ca415360fb5590ad5712acbd745a9
+SHA256: 0b33005e1615114bb1ef223c0f049470d1f54e87aad23a9dd17ce890045d0d6b
+SHA512: 71000aa0e86220f1cdd96e0ca5092eef548fd476e3178edda463c517be16d3a615529c9b7d7743c771f62dd0eb096d68a03504148b4911d880f0020579d7e0e9
+Description: IAP cracker for modern devices
+Name: Satella
+Author: Paisseon
+Icon: https://paisseon.github.io/info/satella.png
+SileoDepiction: https://paisseon.github.io/info/satella.json
+Depiction: https://paisseon.github.io/info/satella.html
+
+Package: com.brend0n.milkyway2-ios14fix
+Architecture: iphoneos-arm
+Version: 0.0.2.1
+Section: Tweaks
+Maintainer: Brend0n <brendonjkding@126.com>
+Installed-Size: 136
+Depends: mobilesubstrate
+Filename: ./debs/com.brend0n.milkyway2-ios14fix_0.0.2.1_iphoneos-arm.deb
+Size: 10150
+MD5sum: 97fa560c870e9fbcc75e366e0cebe335
+SHA1: ec1eb31c1a50520e34d9a9114fe516eb500b5400
+SHA256: 806884a9b90732482a355af6be65c38ac51d70ee845b82499456daf9cb0fd6d8
+SHA512: 46a57768d01b1c0d5c79bc320971b83cf2302ecd974f847caed3319200aed3e4014a973668bfc96b2fc1a10d51a09ce4d2728c287d8abf831e780bc39e09b899
+Description: Make MilkyWay2 great again!
+Name: MilkyWay2-iOS14Fix
+Author: Brend0n <brendonjkding@126.com>
+Depiction: http://brendonjkding.github.io/depictions/web/?p=com.brend0n.milkyway2-ios14fix
+SileoDepiction: http://brendonjkding.github.io/depictions/web/com.brend0n.milkyway2-ios14fix/depiction.json
+
+Package: com.c1d3r.PullOverPro
+Architecture: iphoneos-arm
+Version: 2.1.1
+Priority: optional
+Section: Tweaks
+Maintainer: c1d3r <c1d3rdev@gmail.com>
+Depends: firmware (>= 10.0), mobilesubstrate, com.rpetrich.rocketbootstrap, applist
+Conflicts:
+Replaces:
+Filename: ./debs/com.c1d3r.pulloverpro_2.1.1_iphoneos-arm.deb
+Size: 1566082
+MD5sum: 241e2cdf1544b5a4b3af4815604e71f1
+SHA1: b202bca6c201150d8f6cec37c632e833105b2147
+SHA256: 0807c46c1abd04b042dbbff6f3aa69ab65f823a85e88872be88f3321b43a9051
+SHA512: faa7f0c70ab9a314814cf89b55af7573b2ceb9a283aef24930005231bcee805fe36a0114909937740b8b4b8cbb38b7793faed66cf2f73aba8439f07b476fbd6c
+Homepage:
+Description: A better way to multitask!
+Name: PullOver Pro
+Author: c1d3r
+dev: c1d3r
+Depiction: https://c1d3r.com/repo/depictions/?p=com.c1d3r.pulloverpro
+Icon:
+
+Package: com.foxfort.portraitxi
+Architecture: iphoneos-arm
+Version: 4.1.0
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 15204
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.20)
+Filename: ./debs/com.foxfort.portraitxi_4.1.0_iphoneos-arm.deb
+Size: 13225612
+MD5sum: ca26648483a711e5f44b114c3c12ed16
+SHA1: 4767d250241f96be33ee027a460247894a88889f
+SHA256: 6fd72dd9595e7492773da6c65b109f37c3dd56c7271fa54bcdf2f3b2130b4401
+SHA512: 74b2ba4fa4109a12e8249f8635facd9ddd5b4ce537e64e4f35bc41dc1b1f843ec022135e19cc80d3b0398f44a816d08453a97b70d36251bf1a139306acb5de66
+Description: Single camera portrait mode
+Name: PortraitXI
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/portraitxisettings.bundle/icon@3x.png
+
+Package: com.foxfort.translomatic
+Architecture: iphoneos-arm
+Version: 2.10.15
+Section: Tweaks
+Maintainer: FoxfortMobile
+Installed-Size: 3388
+Depends: mobilesubstrate, preferenceloader, com.foxfort.foxforttools (>= 1.2.22), applist
+Conflicts: me.pulandres.translomatic, me.pulandres.translomatice, co.xrepo.appletweakjailbreak.translomatic, net.kenhtao.translomatic, net.kenhtao.translomatic, sileoturkiye.translomatic, sileoturkiye.translomatic12, com.yourepo.mohadu31.translomatic, com.yourepo.mohadu31.translomatice, org.cydia.kiimo.translomatic, com.hackyouriphone.translomatic, com.hackyouriphone.translomatice, co.hurouftech.translomatic, me.sa3odka.translomatic, com.cydiabc.translomaticzh, x7mii.vip.translomatic, com.bo7ios.translomatic
+Filename: ./debs/com.foxfort.translomatic_2.10.15_iphoneos-arm.deb
+Size: 2034024
+MD5sum: 3c3c43edb6559132d2b5f691860ee7e5
+SHA1: aa3abef99ccb135a8cfe3c741bcf0691211dc2dc
+SHA256: 047a40df452e3acc79ff6fb4c33d615401b5e3754739f76dc5c322c42c8faabe
+SHA512: cd71fe9357692e71ceaf4fa3ba88fb9e99bcccaf0e35948b360b3e0ceffbfee345ed93cd70bc93cc4ff15d3c5e0475e59488cb4c82986e57ae76aa1ce8bf77d0
+Description: Quickly translate any text
+Name: Translomatic
+Author: FoxfortMobile
+Icon: file:///Library/PreferenceBundles/translomaticsettings.bundle/icon@3x.png
+
+Package: com.julioverne.spotilife
+Architecture: iphoneos-arm
+Version: 1.7
+Section: Tweaks
+Maintainer: ichitaso
+Depends: mobilesubstrate
+Filename: ./debs/com.julioverne.spotilife_1.7_iphoneos-arm.deb
+Size: 193310
+MD5sum: c1239fc42576b54b1d0ee5676f248b5e
+SHA1: 8de463c62e4ba8e096b946b01b9bec9380370bed
+SHA256: 0ef201d5cced11bbeb7abd280351714568f31a02eae4488b38d47802add2fcb0
+SHA512: d12f2b0941bac51e8872e54ce3848aaeb791ebe3ee52df2bb06ab40f2998b4037ed39b2ee86ca3a8724301602be00727992b763afdeee38cc6f2fc62a1fcea5b
+Homepage: https://ichitaso.com
+Description: Spotify Unlimited Skips, Remove ADs, Extreme Quality Stream Unlocked... Requires Spotify App (AppStore)
+Name: Spotilife
+Author: julioverne
+Depiction: https://cydia.ichitaso.com/depiction/spotilife.html
+
+Package: com.opa334.crane
+Architecture: iphoneos-arm
+Version: 1.1.4-4
+Section: Tweaks
+Maintainer: opa334
+Installed-Size: 3288
+Depends: firmware (>=11.0), mobilesubstrate, com.opa334.altlist (>=1.0.5), com.rpetrich.rocketbootstrap, preferenceloader, com.opa334.libundirect (>=1.1) | firmware (<<14.0)
+Conflicts: com.opa334.cranelite, com.rpgfarm.slices3, com.subdiox.slices2, com.expetelek.slices
+Filename: ./debs/com.opa334.crane_1.1.4-4_iphoneos-arm.deb
+Size: 582080
+MD5sum: d285e4885841a9a1348b855a7691d4c1
+SHA1: 2286dfd496f30ea73f17c9fe6d93d812ed0d49b5
+SHA256: f9229097a3c4fce09b31dc314774a5d0aa95fbf9621a08a74fb2fc070e4ddf28
+SHA512: f7936bf5a71e68894e00ed97d7f343fad94738e62f14b13ab7c101a612eeafe48c8eb580912cef95ac10cb3b4250c47d04ec7956ac9ab90705c15e4d211cbdc2
+Description: Multiple containers for your applications!
+Name: Crane
+Author: opa334
+
+Package: com.rileytestut.altdaemon
+Architecture: iphoneos-arm
+Version: 1.0
+Section: System
+Maintainer: Riley Testut
+Depends:
+Filename: ./debs/com.rileytestut.altdaemon_1.0_iphoneos-arm.deb
+Size: 597622
+MD5sum: 83660c2d5119ac6ecce72236b27cfae4
+SHA1: 3c7ce20ff72c17f17a1415b14534a9be3fc41ca1
+SHA256: 1f5b35f4c402f6abab69e1833b260a4dfac156bbe1f9807b7aec4cd22665cc95
+SHA512: 50b7fd4d79d08e7c372865f6d3cabfa2471a6b822a1cc1137ef2886a7f9260b08ce549e23835d30bcf5b1340c941932fdc47e30fa31596a2905f78ce62206ffd
+Homepage: https://altstore.io
+Description: AltDaemon allows AltStore to install and refresh apps without a computer.
+Name: AltDaemon
+Author: Riley Testut
+
+Package: com.rpgfarm.pulloverproapappview
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Baw Appie <pp121324@gmail.com>
+Installed-Size: 136
+Depends: mobilesubstrate (>= 0.9.5000), com.c1d3r.pulloverpro, com.rpgfarm.libapappview
+Filename: ./debs/com.rpgfarm.pulloverproapappview_1.0_iphoneos-arm.deb
+Size: 4908
+MD5sum: f1b36b1857f909a25f8841910aa03f23
+SHA1: 2ebc6896e0bb45bf470f131811f95bf98efa2b95
+SHA256: 12a2ecf715ac6117ca129d5fa3c1247390a1f7cf66468b078414520dea49f441
+SHA512: 6e08e94f9cb3f9ed530844700022d7a55c7c923f1e800f4a7ddf063c8adbb94243281e50172b6e5aadd78b6aee129add1dcd7e079a531ccf7eb1e3e04607c636
+Description: PullOver Pro Keyboard Fix
+Name: PullOver Pro Keyboard Fix
+Author: Baw Appie <pp121324@gmail.com>
+
+Package: cydia.com.ipc.crackerxi
+Architecture: iphoneos-arm
+Version: 1.1.16
+Section: System
+Maintainer: c0pyn1nja
+Depends: firmware (>= 11.0)
+Filename: ./debs/cydia.com.ipc.crackerxi_1.1.16_iphoneos-arm.deb
+Size: 9960924
+MD5sum: 7363c9289b0041ba3bc8df156b751a9c
+SHA1: 27b8a552befab49a15e78d0cc1d5c5867af3c0fb
+SHA256: 3b835fa95d1d060334929db4ed8b67767c12dba58e8ded8acd0161d44ce974fc
+SHA512: e347b5b6b47acf13fb486ed012e6f444c012db45a9957edd5caeb0b9c67e49438640c4b3827656fb271cc7cd3d14f13be8b6310314b22d84c936ca61717a090b
+Description: Decrypts iOS Apps
+Name: CrackerXI+
+Website: https://ipastore.me
+Icon: file:///Applications/crackerxi.app/AppIcon.png
+
+Package: flex3beta
+Architecture: iphoneos-arm
+Version: 1:3~Beta98
+Section: Tweaks
+Maintainer: John Coates
+Depends: mobilesubstrate, firmware (>= 12.2) | org.swift.libswift (>= 5.0), firmware (>= 9.0)
+Suggests: com.rpetrich.rocketbootstrap
+Conflicts: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Replaces: flexpackage, flexpackagebeta, com.fuyuchi.flex, flex2packagebeta, flex2package, com.fuyuchi.flex2, flex2blackpackagebeta, com.johncoates.flex3, flex3featurecatalog, flex3toolsonly
+Filename: ./debs/flex3beta_1%3a3~Beta98_iphoneos-arm.deb
+Size: 7494640
+MD5sum: d6376d749353fdadfbf9eb1b1895c764
+SHA1: f1352715e19bc3a362bb71129f46a93160b51f17
+SHA256: 924bfa0f6fa4669f2a95cad50bf3d1d6491b5e158bc2f0e3319fd64e8e104d6b
+SHA512: 5e432b1749d8e366b8e9d23b3d36b4ae0c6fe0d0eb0f78a71f70508f5fa632b35034b3e881b657a5946bebc8e025dc7d131d0ae4ce67c964fc3e25fbdcb05360
+Description: Develop your own tweaks and share them on the Flex Community Cloud
+Name: Flex 3 Beta
+Author: John Coates
+
+Package: love.litten.avrora
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 740
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.spark.libsparkapplist, com.peterdev.libpddokdo
+Filename: ./debs/love.litten.avrora.deb
+Size: 375946
+MD5sum: 70789388f32e0f0ed548a6925d3ea365
+SHA1: 1ba4195d61fac2c545b93b9e840aabd2ee971c54
+SHA256: c378b4b5de8ea1d7ada481c931d01946e03af9bb7105fb982e065d6f8405980e
+SHA512: 4804f069b999fc4c6b70e489dc2f19c092a3e97c03d342cac6ec5ba8c44c8387f581367d66a0eb116cb514ec70b2fc06b62d42f05d1cbfffb7f60f84bd3bfb29
+Description: Shiny icons need shiny names
+Name: Avrora 🌌
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Avrora/index.html
+SileoDepiction: https://repo.litten.love/depictions/Avrora/index.json
+Icon: https://repo.litten.love/depictions/Avrora/assets/icon.png
+
+Package: love.litten.batterybuddy
+Architecture: iphoneos-arm
+Version: 1.0.2
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 192
+Depends: mobilesubstrate
+Filename: ./debs/love.litten.batterybuddy.deb
+Size: 15330
+MD5sum: e4e8dcc4a0a5b6e31169e4ace80ac90e
+SHA1: d644354112d333aeb8ee0920be65722385b6bfa6
+SHA256: 950dd248e5bd8a952fa7ba43bb02345a48b67995f282482047398d3338e34698
+SHA512: a8928eb3c88e570a579f7c5ed26170f889529df45dc9355de0421894c948c17c100faccea438d7d61147d75a4103c6eac2f8d4434b9f85183d9c8576062f4210
+Description: Battery indicator, but cute
+Name: BatteryBuddy ⚡️
+Author: Litten & neilsardesai
+Depiction: https://repo.litten.love/depictions/BatteryBuddy/index.html
+SileoDepiction: https://repo.litten.love/depictions/BatteryBuddy/index.json
+Icon: https://repo.litten.love/depictions/BatteryBuddy/assets/icon.png
+
+Package: love.litten.copypasta
+Architecture: iphoneos-arm
+Version: 1.3.4
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 640
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), applist, com.mrgcgamer.libgcuniversal, com.spark.libsparkapplist
+Filename: ./debs/love.litten.copypasta.deb
+Size: 255720
+MD5sum: 64c7d27f869f4be594f62c07e229eca7
+SHA1: 56933ec4a7784475194c524b2204e45b5c6f9272
+SHA256: 65b02b0378a28ad696917c30c321db97c723136ecf76a7ac00975613094bc823
+SHA512: 688aee92388f3c527131cdbce36761d48456f95f9888a8585bb8abc2dde14f6a50015fd17dee1cc8c8e100f09c81056f8eeb58638f576ab428f10dc08e526358
+Description: Minimalist clipboard manager
+Name: Copypasta 🎃
+Author: Nepeta & Litten
+Depiction: https://repo.litten.love/depictions/cpa/index.html
+SileoDepiction: https://repo.litten.love/depictions/cpa/cpa.json
+Icon: https://repo.litten.love/depictions/cpa/assets/icon.png
+
+Package: love.litten.diary
+Architecture: iphoneos-arm
+Version: 1.2.1
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 5800
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, com.peterdev.libpddokdo, love.litten.libkitten
+Conflicts: hi.my.name.is.ubik.kalm, com.peterdev.grupi, se.nosskirneh.properlockgestures
+Filename: ./debs/love.litten.diary.deb
+Size: 3030956
+MD5sum: f8d0a14353e6d0b240dc4e92cefba036
+SHA1: 4798e3080de4aea4dc39872e784e9388ae2f29bb
+SHA256: dad7385e15b362b2069a9a6198a7751bba340c81a307898039c2cc9da9889f4f
+SHA512: 221c071bd2c357c602a7ae7b5afaf5986f6dd7c0cbde86bf9223a3a29d7746f37ec97ea5f39ef7b41a62e27de7b687b2731254662b6227e367eef82daa842fcf
+Description: Dear diary..
+Name: Diary 📖
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Diary/index.html
+SileoDepiction: https://repo.litten.love/depictions/Diary/index.json
+Icon: https://repo.litten.love/depictions/Diary/assets/icon.png
+
+Package: love.litten.eneko
+Architecture: iphoneos-arm
+Version: 1.1.2
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 680
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.eneko.deb
+Size: 304692
+MD5sum: b73bbfe4a4d39365b6983e69b19cdb42
+SHA1: 3543fbf5346198e628366c63b087fa2fb663d3e1
+SHA256: 10db3f0c2b6b9479c46f12069af9ba1299edc1d979be773e68e67c677fdb3d39
+SHA512: ff7d13fdc488ed1bae59aadf967cd83a59069fdec52ec94a0a061362c6ecd4df7c67ef922ddc8c0ae932b00a80c50ff386a20b45fa342e019f144c6d92513c8f
+Description: Set a video as your wallpaper
+Name: Eneko 🎬
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Eneko/index.html
+SileoDepiction: https://repo.litten.love/depictions/Eneko/index.json
+Icon: https://repo.litten.love/depictions/Eneko/assets/icon.png
+
+Package: love.litten.libkitten
+Architecture: iphoneos-arm
+Version: 1.3.2
+Section: System
+Maintainer: Litten
+Installed-Size: 172
+Depends: firmware (>= 12.0)
+Filename: ./debs/love.litten.libkitten.deb
+Size: 15556
+MD5sum: a6c54abd9fe769d31ce31a29548a1b43
+SHA1: ebd0ea013c57f76fb03b7d8dabad9b4afd8e73ec
+SHA256: dfe3a740e4ceb70ac01809b7158d04461810e87821a3263487702070b9c193a7
+SHA512: 74639065c4a4dc07331a56fa00a1407afac1b6c767680d38837f24381301778bb13f549d5e72bfc2413e98ff3071fd6cae3a929fa9d2f048fbf6fd55a9facaa7
+Description: Library to get three different colors from an image and detect if one is light or dark
+Tag: role::developer
+Name: libKitten 🐱
+Author: Litten
+Depiction: https://repo.litten.love/depictions/libKitten/index.html
+SileoDepiction: https://repo.litten.love/depictions/libKitten/index.json
+Icon: https://repo.litten.love/depictions/libKitten/assets/icon.png
+
+Package: love.litten.liddell
+Architecture: iphoneos-arm
+Version: 1.2.2
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1708
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), love.litten.libkitten (>= 1.3), com.mrgcgamer.libgcuniversal
+Filename: ./debs/love.litten.liddell.deb
+Size: 1273654
+MD5sum: 980237cf1f6e365ef035bf6c6fa51264
+SHA1: c03769629b47dc7521e35ecf7449a09ebf190f4d
+SHA256: 15d86c6a055ac8eb40dac9b2224aaa173173f14c3c12a15ae67bf113ea2be71c
+SHA512: 138712754e2540c69d096bee1756504f602934e02dafa4251348e6c3fe989db68731c938535f57ad3f7b8e3d02e8ae499d7be30991efe4094184d572c6ff6226
+Description: Liddell notification banners
+Name: Liddell 🫖
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Liddell/index.html
+SileoDepiction: https://repo.litten.love/depictions/Liddell/index.json
+Icon: https://repo.litten.love/depictions/Liddell/assets/icon.png
+
+Package: love.litten.nita
+Architecture: iphoneos-arm
+Version: 1.5.4
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1312
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.peterdev.libpddokdo
+Filename: ./debs/love.litten.nita.deb
+Size: 925332
+MD5sum: 6cc74d9959b6ab487c233a34a774024f
+SHA1: 54ff19f1f68053991b80f7f940c263947641906b
+SHA256: 505ecec845b1eb4208028a2b4a0a1524c0176a9a73aa619e647101e071e3a751
+SHA512: db7a54fe9b0b94767d1ed12b73b7e54184ed7a9483e942b5534a6e42f1b796414dc82c5681042a3b5497237ebcdf702218542fd20bfcfc83b4b7ba54aad13d90
+Description: Ensoleillé
+Name: Nita ☀️
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Nita/index.html
+SileoDepiction: https://repo.litten.love/depictions/Nita/index.json
+Icon: https://repo.litten.love/depictions/Nita/assets/icon.png
+
+Package: love.litten.puck
+Architecture: iphoneos-arm
+Version: 2.0.3
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 2688
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.opa334.ccsupport
+Filename: ./debs/love.litten.puck.deb
+Size: 1824004
+MD5sum: 30d1fe26231b03f8ef035eb08201a608
+SHA1: 2ff4d093d664894e3aa8a3287c07203876e6398a
+SHA256: ec6abb0b4471baac404eaf88096a55f49b1dba93765ca9dd294ffff61a92b4c9
+SHA512: 369c50b16e1a2e827e34eeea4242688a36223efc4eac0b63987151849c9eb7021995a6b2154181f1b129d239daad879f8cbb94c662e1f2cbd5fb0da24835a193
+Description: Your magical watching spirit
+Name: Puck 🔮
+Author: Litten
+Depiction: https://repo.litten.love/depictions/Puck/index.html
+SileoDepiction: https://repo.litten.love/depictions/Puck/index.json
+Icon: https://repo.litten.love/depictions/Puck/assets/icon.png
+
+Package: love.litten.safariwallpaper
+Architecture: iphoneos-arm
+Version: 1.5.1
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 1368
+Depends: mobilesubstrate, preferenceloader, ws.hbang.common (>= 1.14), firmware (>= 13.0), com.mrgcgamer.libgcuniversal, love.litten.libkitten
+Filename: ./debs/love.litten.safariwallpaper.deb
+Size: 977998
+MD5sum: 798b10612f7eafba1511953a4a759a65
+SHA1: 75ef99a45a88650fa24325b56c66dfcdad3e1ba1
+SHA256: 16972c7bca84058ac2ee239986c65beb796d3c967e3255d263c6d37d2ca8d9a1
+SHA512: 0b5fb08aa305321506df5657f6a9b0314f1e9b4e1879fa0609af7e1c353b6c8b48550b486ebaa9fc9736aa762f88c1e8af8d862783cf25f7284d73815c8ee6b7
+Description: Personalize Safari with a wallpaper
+Name: SafariWallpaper 🌇
+Author: Litten
+Depiction: https://repo.litten.love/depictions/SafariWallpaper/index.html
+SileoDepiction: https://repo.litten.love/depictions/SafariWallpaper/index.json
+Icon: https://repo.litten.love/depictions/SafariWallpaper/assets/icon.png
+
+Package: love.litten.ve
+Architecture: iphoneos-arm
+Version: 1.0
+Section: Tweaks
+Maintainer: Litten
+Installed-Size: 2728
+Depends: mobilesubstrate, preferenceloader, firmware (>= 13.0), ws.hbang.common (>= 1.14)
+Filename: ./debs/love.litten.ve.deb
+Size: 1942318
+MD5sum: 00866837dda619ff7528348325375154
+SHA1: 9bbbd5d45eda650d1a634fa7a15723abe12ebeae
+SHA256: f73353eb024886ac09b7d4169aa622e1f48a15fdc6f7d630bb0c1205a2c469e6
+SHA512: 2e4f5858cee43b52f79902f869c40b06f8fa81b6d81f2884673705655a3ec245e7a987165cd9eedf7dc4ee451bcfffa84e0bb53a3846e8312995914ae6746fe1
+Description: Natively integrated notification logger
+Name: Vē 💌
+Author: Litten & 74k1_
+Depiction: https://repo.litten.love/depictions/Ve/index.html
+SileoDepiction: https://repo.litten.love/depictions/Ve/index.json
+Icon: https://repo.litten.love/depictions/Ve/assets/icon.png
+
+Package: net.angelxwind.mikoto
+Architecture: iphoneos-arm
+Version: 4.0.3
+Section: Tweaks
+Maintainer: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Installed-Size: 15548
+Depends: firmware (>= 5.0), mobilesubstrate, preferenceloader (>= 2.2.0-1), net.angelxwind.karenprefs (>= 1.4), net.angelxwind.karenlocalizer
+Conflicts: com.xcxiao.simplelsios10
+Replaces:
+Filename: ./debs/nodelete-net.angelxwind.mikoto.deb
+Size: 11582804
+MD5sum: e1f49254a62ed949fd6d7d44c0b01043
+SHA1: 5717d7348bd1a23cc7bb94f659704409a21eeb8a
+SHA256: ea31dd47acfa2c397664ffb19e8bcc130d356d37fad49ccd6c45ebb32f06de69
+SHA512: 7d1ad1d60794c84083cc19539585692d7349a921114ba789b809b1aa6015101f505be5523e615a51b88ee84d840a7293a0ea8c85f9ad280a5122dd63f8909ade
+Homepage: https://cydia.angelxwind.net/
+Description: Comprehensive iOS System/App Store App customisation suite
+Name: mikoto
+Author: Karen/あけみ (angelXwind) <karen@angelxwind.net>
+Depiction: https://cydia.angelxwind.net/?page/net.angelxwind.mikoto
+Icon: file:///Library/KarenRepoIcons/net.angelxwind.mikoto.png
+
 Package: com.spark.snowboard
 Architecture: iphoneos-arm
 Version: 1.4.20~Beta4
